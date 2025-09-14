@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/Licenta/ExDetectRoata  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: Wheel_NoDamage
+  1: Wheel_Damage
+  2: No_Wheel

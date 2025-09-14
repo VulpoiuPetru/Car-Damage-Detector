@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/Licenta/ExDetectOglindaa  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: Mirror_NoDamage
+  1: Mirror_Damage
+  2: No_Mirror

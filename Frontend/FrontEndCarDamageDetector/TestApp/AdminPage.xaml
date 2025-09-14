@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestApp.AdminPage"
+              BackgroundColor="#000000"
+             NavigationPage.HasNavigationBar="False">
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center" HorizontalOptions="Center">
+
+            <Label Text="Partner Panel"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center" />
+
+            <Frame BackgroundColor="#1A1A1A"
+                   CornerRadius="25"
+                   Padding="25"
+                   HasShadow="False"
+                   WidthRequest="360">
+
+                <HorizontalStackLayout Spacing="20">
+
+                    <VerticalStackLayout Spacing="20" WidthRequest="160">
+
+                        <Button x:Name="uploadCsvButton"
+                                Text="Upload CSV"
+                                BackgroundColor="#3A4C7A"
+                                TextColor="White"
+                                CornerRadius="20" />
+
+                        <Picker x:Name="csvPicker"
+                                Title="Select a CSV file"
+                                TitleColor="Gray"
+                                TextColor="White"
+                                BackgroundColor="#2A2A2A"
+                                FontSize="16" />
+
+                        <Button x:Name="deleteCsvButton"
+                                Text="Delete CSV"
+                                BackgroundColor="#8B0000"
+                                TextColor="White"
+                                CornerRadius="20" />
+
+                        <Label x:Name="resultLabel"
+                               FontSize="12"
+                               TextColor="Gray"
+                               LineBreakMode="WordWrap" />
+
+                    </VerticalStackLayout>
+
+                    <VerticalStackLayout Spacing="10" WidthRequest="160">
+
+                        <Label Text="Required CSV structure:"
+                               FontSize="14"
+                               FontAttributes="Bold"
+                               TextColor="LightGray" />
+                        <Label Text="• Manufacturer" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• CarModel" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Year" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• ComponentCode" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Component" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Price" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• LaborCost" FontSize="13" TextColor="LightGray" />
+
+                        <Label Text="Valid Component Names:"
+                               FontSize="14"
+                               FontAttributes="Bold"
+                               TextColor="LightGray"
+                               Margin="0,10,0,0" />
+                        <Label Text="• Front Bumper" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Bumper" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Front Right Wing" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Front Left Wing" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Right Wing" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Left Wing" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Right Headlight" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Left Headlight" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Right Taillight" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Left Taillight" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Hood" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Trunk" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Windshield" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Window" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Right Mirror" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Left Mirror" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Front Right Door" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Right Door" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Front Left Door" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Left Door" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Front Right Window" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Right Window" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Front Left Window" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Left Window" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Front Right Wheel" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Right Wheel" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Front Left Wheel" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Rear Left Wheel" FontSize="13" TextColor="LightGray" />
+                        <Label Text="• Pillars Roof" FontSize="13" TextColor="LightGray" />
+
+                    </VerticalStackLayout>
+
+                </HorizontalStackLayout>
+            </Frame>
+            <VerticalStackLayout x:Name="csvTableContainer" 
+                                 IsVisible="False" 
+                                 BackgroundColor="#2A2A2A" 
+                                 Padding="15" 
+                                 WidthRequest="680">
+                <Label x:Name="csvTableHeader"
+                       FontAttributes="Bold"
+                       Margin="0,10,0,5"
+                       TextColor="White"
+                       IsVisible="False" />
+
+                <HorizontalStackLayout>
+                <Label Text="Manufacturer" WidthRequest="100" FontAttributes="Bold" TextColor="White"/>
+                <Label Text="CarModel" WidthRequest="100" FontAttributes="Bold" TextColor="White"/>
+                <Label Text="Year" WidthRequest="60" FontAttributes="Bold" TextColor="White"/>
+                <Label Text="Component  Code" WidthRequest="100" FontAttributes="Bold" TextColor="White"/>
+                <Label Text="Component" WidthRequest="120" FontAttributes="Bold" TextColor="White"/>
+                <Label Text="Price" WidthRequest="80" FontAttributes="Bold" TextColor="White"/>
+                <Label Text="LaborCost" WidthRequest="80" FontAttributes="Bold" TextColor="White"/>
+            </HorizontalStackLayout>
+
+            <CollectionView x:Name="csvTableView" Margin="0,0,0,20">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <HorizontalStackLayout>
+                            <Label Text="{Binding Manufacturer}" WidthRequest="100" TextColor="White"/>
+                            <Label Text="{Binding CarModel}" WidthRequest="100" TextColor="White"/>
+                            <Label Text="{Binding Year}" WidthRequest="60" TextColor="White"/>
+                            <Label Text="{Binding ComponentCode}" WidthRequest="100" TextColor="White"/>
+                            <Label Text="{Binding Component}" WidthRequest="120" TextColor="White"/>
+                            <Label Text="{Binding Price}" WidthRequest="80" TextColor="White"/>
+                            <Label Text="{Binding LaborCost}" WidthRequest="80" TextColor="White"/>
+                        </HorizontalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+           </VerticalStackLayout>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

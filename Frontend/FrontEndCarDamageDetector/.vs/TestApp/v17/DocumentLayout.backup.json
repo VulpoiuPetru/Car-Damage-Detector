@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\detectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\detectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\detectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\detectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|c:\\facan3sem2\\testlicenta\\testapp\\testapp\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE6EA1C-15CA-4FFF-9A1B-AB54347F5186}|TestApp\\TestApp.csproj|solutionrelative:testapp\\aboutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\petru\\Desktop\\car_video21747251069.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetectPage.xaml.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\DetectPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestApp\\DetectPage.xaml.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\DetectPage.xaml.cs",
+              "RelativeToolTip": "TestApp\\DetectPage.xaml.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAqwAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:56:04.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestApp\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\LoginPage.xaml.cs",
+              "RelativeToolTip": "TestApp\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:46:04.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "TestApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:47:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpPage.xaml.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\SignUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestApp\\SignUpPage.xaml.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\SignUpPage.xaml.cs",
+              "RelativeToolTip": "TestApp\\SignUpPage.xaml.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAmwFgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:38:19.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "TestApp\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "TestApp\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:12:57.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestApp\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AdminPage.xaml.cs",
+              "RelativeToolTip": "TestApp\\AdminPage.xaml.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAuwJ0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:56:14.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetectPage.xaml",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\DetectPage.xaml",
+              "RelativeDocumentMoniker": "TestApp\\DetectPage.xaml",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\DetectPage.xaml",
+              "RelativeToolTip": "TestApp\\DetectPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T20:55:38.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TestApp\\MainPage.xaml",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\MainPage.xaml",
+              "RelativeToolTip": "TestApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T08:18:38.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "TestApp\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "TestApp\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:49:10.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "TestApp\\AdminPage.xaml",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AdminPage.xaml",
+              "RelativeToolTip": "TestApp\\AdminPage.xaml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T20:56:11.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "TestApp\\LoginPage.xaml",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\LoginPage.xaml",
+              "RelativeToolTip": "TestApp\\LoginPage.xaml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T12:46:01.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpPage.xaml",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\SignUpPage.xaml",
+              "RelativeDocumentMoniker": "TestApp\\SignUpPage.xaml",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\SignUpPage.xaml",
+              "RelativeToolTip": "TestApp\\SignUpPage.xaml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T20:38:15.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TestApp\\MauiProgram.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\MauiProgram.cs",
+              "RelativeToolTip": "TestApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:18:36.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TestApp\\App.xaml.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\App.xaml.cs",
+              "RelativeToolTip": "TestApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:57:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TestApp\\AppShell.xaml",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AppShell.xaml",
+              "RelativeToolTip": "TestApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T09:44:12.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TestApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "TestApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:53:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\App.xaml",
+              "RelativeDocumentMoniker": "TestApp\\App.xaml",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\App.xaml",
+              "RelativeToolTip": "TestApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T09:56:10.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutPage.cs",
+              "DocumentMoniker": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AboutPage.cs",
+              "RelativeDocumentMoniker": "TestApp\\AboutPage.cs",
+              "ToolTip": "C:\\FacAn3Sem2\\TestLicenta\\TestApp\\TestApp\\AboutPage.cs",
+              "RelativeToolTip": "TestApp\\AboutPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:17:13.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "car_video21747251069.json",
+              "DocumentMoniker": "C:\\Users\\petru\\Desktop\\car_video21747251069.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\petru\\Desktop\\car_video21747251069.json",
+              "ToolTip": "C:\\Users\\petru\\Desktop\\car_video21747251069.json",
+              "RelativeToolTip": "..\\..\\..\\Users\\petru\\Desktop\\car_video21747251069.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T20:02:19.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

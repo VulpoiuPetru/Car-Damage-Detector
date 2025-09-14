@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Licenta/ExDetectAripaStangaFata  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: Front_Left_Wing_No_Damaged
+  1: Front_Left_Wing_Damaged

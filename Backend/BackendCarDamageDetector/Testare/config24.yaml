@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/Licenta/ExDetectParbrizLunetaa  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: Windscreen_NoDamage
+  1: Windscreen_Damage
+  2: No_Windscreen

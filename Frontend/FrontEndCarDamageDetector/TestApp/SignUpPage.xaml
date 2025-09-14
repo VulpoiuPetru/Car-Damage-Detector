@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestApp.SignUpPage"
+             BackgroundColor="#000000"
+             NavigationPage.HasNavigationBar="False">
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center" HorizontalOptions="Center">
+
+            <Label Text="Create Account"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center" />
+
+            <Frame BackgroundColor="#1A1A1A"
+                   CornerRadius="25"
+                   Padding="25"
+                   HasShadow="False"
+                   WidthRequest="320">
+
+                <VerticalStackLayout Spacing="20">
+
+                    <Entry x:Name="UsernameEntry"
+                           Placeholder="Username"
+                           TextColor="White"
+                           PlaceholderColor="Gray"
+                           BackgroundColor="Transparent"
+                           FontSize="16" />
+
+                    <Entry x:Name="PasswordEntry"
+                           Placeholder="Password"
+                           IsPassword="True"
+                           TextColor="White"
+                           PlaceholderColor="Gray"
+                           BackgroundColor="Transparent"
+                           FontSize="16" />
+
+                    <Picker x:Name="RolePicker"
+                            Title="Select role"
+                            TextColor="White"
+                            BackgroundColor="Transparent"
+                            FontSize="16"
+                            SelectedIndexChanged="OnRoleChanged" />
+
+                    <Entry x:Name="PartnerEmailEntry"
+                           IsVisible="False"
+                           Placeholder="Your Email"
+                           TextColor="White"
+                           PlaceholderColor="Gray"
+                           BackgroundColor="Transparent" />
+
+                    <Button x:Name="GenerateCodeButton"
+                            Text="Send Verification Code"
+                            IsVisible="False"
+                            Clicked="OnGenerateCodeClicked"
+                            BackgroundColor="#3A4C7A"
+                            TextColor="White"
+                            CornerRadius="20" />
+
+                    <Entry x:Name="CodeEntry"
+                           IsVisible="False"
+                           Placeholder="Enter Code"
+                           TextColor="White"
+                           PlaceholderColor="Gray"
+                           BackgroundColor="Transparent" />
+
+                    <Button x:Name="ConfirmCodeButton"
+                            Text="Confirm Code"
+                            IsVisible="False"
+                            Clicked="OnConfirmCodeClicked"
+                            BackgroundColor="#5568A2"
+                            TextColor="White"
+                            CornerRadius="20" />
+
+                    <Entry x:Name="CompanyNameEntry"
+                            IsVisible="False"
+                            Placeholder="Company Name"
+                            TextColor="White"
+                            PlaceholderColor="Gray"
+                            BackgroundColor="Transparent" />
+                    <Entry x:Name="CompanyNumberEntry"
+                           IsVisible="False"
+                           Placeholder="Company Number"
+                           TextColor="White"
+                           PlaceholderColor="Gray"
+                           BackgroundColor="Transparent" />
+
+                    <Entry x:Name="CompanyLocationEntry"
+                           IsVisible="False"
+                           Placeholder="Company Location"
+                           TextColor="White"
+                           PlaceholderColor="Gray"
+                           BackgroundColor="Transparent" />
+
+                    <Button Text="Create Account"
+                            x:Name="SignUpButton"
+                            BackgroundColor="#2E3A59"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            CornerRadius="25"
+                            HeightRequest="50"
+                            Clicked="OnSignUpClicked" />
+
+                </VerticalStackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

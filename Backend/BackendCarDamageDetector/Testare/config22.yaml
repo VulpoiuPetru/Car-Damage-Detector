@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/Licenta/ExDetectAripaSpate  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: BackWing_NoDamage
+  1: BackWing_Damage
+  2: No_BackWing

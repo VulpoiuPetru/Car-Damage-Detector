@@ -1,0 +1,12 @@
+path: /content/drive/MyDrive/Licenta/ExDetectBaraFataSpate  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: FrontBumper_NoDamage
+  1: RearBumper_NoDamage
+  2: FrontBumper_Damage
+  3: RearBumper_Damage
+  4: No_FrontBumper
+  5: No_RearBumper

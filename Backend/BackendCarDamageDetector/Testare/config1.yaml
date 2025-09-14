@@ -1,0 +1,10 @@
+path: /content/drive/MyDrive/Licenta/ExPtDetectareDaunaMasina  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Front_Left_Wing_Scratch
+  1: Front_Left_Wing_Bend
+  2: Front_Left_Wing_Hitting
+  3: Front_Left_Wing_No_Damage

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestApp.DetectPage"
+             BackgroundColor="#000000"
+             NavigationPage.HasNavigationBar="False">
+    <ScrollView>
+        <VerticalStackLayout Padding="30" Spacing="25" VerticalOptions="Center" HorizontalOptions="Center">
+            <Label Text="Detect Damage"
+                   FontSize="24"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center" />
+
+            <Frame BackgroundColor="#1A1A1A"
+                   CornerRadius="25"
+                   Padding="25"
+                   HasShadow="False"
+                   WidthRequest="360">
+                <VerticalStackLayout Spacing="20">
+                    <Label Text="Add car details?"
+                           FontSize="14"
+                           TextColor="LightGray"
+                           HorizontalOptions="Start" />
+                    <Switch x:Name="includeCarDataSwitch"
+                            IsToggled="False"
+                            OnColor="#3A4C7A"
+                            ThumbColor="White" />
+
+                    <Entry x:Name="manufactureEntry"
+                           Placeholder="Manufacturer"
+                           PlaceholderColor="Gray"
+                           TextColor="White"
+                           BackgroundColor="#2A2A2A"
+                           FontSize="16"
+                           
+                           IsVisible="False" />
+                    <Entry x:Name="carModelEntry"
+                           Placeholder="Car Model"
+                           PlaceholderColor="Gray"
+                           TextColor="White"
+                           BackgroundColor="#2A2A2A"
+                           FontSize="16"
+                           
+                           IsVisible="False" />
+                    <Entry x:Name="yearEntry"
+                           Placeholder="Year"
+                           PlaceholderColor="Gray"
+                           TextColor="White"
+                           BackgroundColor="#2A2A2A"
+                           FontSize="16"
+                           
+                           IsVisible="False" />
+
+                    <Button x:Name="pickImageButton"
+                            Text="Select Images"
+                            BackgroundColor="#3A4C7A"
+                            TextColor="White"
+                            CornerRadius="20" />
+                    <Button x:Name="detectButton"
+                            Text="Detect"
+                            BackgroundColor="#3A4C7A"
+                            TextColor="White"
+                            CornerRadius="20"
+                            IsEnabled="False" />
+                    <Button x:Name="resetButton"
+                            Text="Reset"
+                            BackgroundColor="#8B0000"
+                            TextColor="White"
+                            CornerRadius="20"
+                            IsVisible="False" />
+
+                    <Label x:Name="resultLabel"
+                           FontSize="12"
+                           TextColor="Gray"
+                           LineBreakMode="WordWrap" />
+
+                    <Label x:Name="servicesHeader"
+                           
+                           FontSize="16"
+                           FontAttributes="Bold"
+                           TextColor="White"
+                           Margin="0,20,0,5"
+                           IsVisible="False" />
+
+                    <VerticalStackLayout x:Name="imagesContainer"
+                                        Spacing="10" />
+                </VerticalStackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:skia="clr-namespace:SkiaSharp.Extended.UI.Controls;assembly=SkiaSharp.Extended.UI"
+             x:Class="TestApp.MainPage"
+             BackgroundColor="#000000"
+             NavigationPage.HasNavigationBar="False">
+
+
+
+    <Grid x:Name="MainGrid">
+        
+        <Grid x:Name="LottieContainer"
+              HorizontalOptions="Fill"
+              VerticalOptions="Fill"
+              BackgroundColor="Black">
+            <skia:SKLottieView
+                x:Name="LottieAnimation"
+                RepeatCount="1"
+                Source="car_video.mp4.lottie.json"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+        </Grid>
+
+        <VerticalStackLayout x:Name="TitleLayout"
+                             Opacity="0"
+                             VerticalOptions="Start"
+                             HorizontalOptions="Center"
+                             Margin="0,50,0,0"
+                             Spacing="10">
+            <Label Text="Welcome to"
+                   FontSize="36"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalTextAlignment="Center" />
+            <Label Text="Car Damage Detector"
+                   FontSize="18"
+                   TextColor="White"
+                   HorizontalTextAlignment="Center" />
+        </VerticalStackLayout>
+        <Label x:Name="DebugLabel"
+FontSize="12"
+TextColor="Red"
+HorizontalOptions="Center" />
+
+
+
+    </Grid>
+    
+</ContentPage>

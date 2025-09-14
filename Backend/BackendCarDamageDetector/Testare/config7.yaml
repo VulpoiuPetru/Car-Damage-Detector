@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/Licenta/ExDetectFar  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: Headlight_NoDamage
+  1: Headlight_Damage
+  2: No_Headlight

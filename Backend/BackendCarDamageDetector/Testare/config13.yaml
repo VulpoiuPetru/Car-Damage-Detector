@@ -1,0 +1,12 @@
+path: /content/drive/MyDrive/Licenta/ExDetectCapotaPortbagaj  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: Hood_NoDamage
+  1: Trunk_NoDamage
+  2: Hood_Damage
+  3: Trunk_Damage
+  4: No_Hood
+  5: No_Trunk

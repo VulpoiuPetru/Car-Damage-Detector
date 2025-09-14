@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Licenta/ExDetectStalpAcoperis  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train # val images (relative to 'path')
+
+# Classes
+names:
+  0: Pillars&Roof_NoDamage
+  1: Pillars&Roof_Damage
